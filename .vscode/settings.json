@@ -5,5 +5,7 @@
       "tailwindCSS.showPixelEquivalents": true,
       "editor.quickSuggestions": {
         "strings": true
-      }
+      },
+      "css.validate": false
+      
 }
