@@ -1,0 +1,9 @@
+{
+    "tailwindCSS.includeLanguages": {
+        "plaintext": "res"
+      },
+      "tailwindCSS.showPixelEquivalents": true,
+      "editor.quickSuggestions": {
+        "strings": true
+      }
+}

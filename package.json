@@ -1,0 +1,23 @@
+{
+  "name": "my-rescript-app",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "compile": "bsb -make-world -clean-world -w",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.4",
+    "bs-platform": "^9.0.1",
+    "postcss": "^8.2.6",
+    "tailwindcss": "^2.0.3",
+    "vite": "^2.0.1"
+  },
+  "dependencies": {
+    "@rescript/react": "^0.10.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
