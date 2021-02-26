@@ -13,3 +13,6 @@ in one terminal run
 and in the second one
 
 `yarn dev` - this one will start Vite
+
+
+Open your favourite browser on `http://localhost:3000` and it is done ;)
