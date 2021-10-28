@@ -9,11 +9,11 @@
     "serve": "vite preview"
   },
   "devDependencies": {
-    "autoprefixer": "^10.3.1",
+    "autoprefixer": "^10.3.7",
     "bs-platform": "^9.0.2",
-    "postcss": "^8.3.6",
-    "tailwindcss": "^2.0.3",
-    "vite": "^2.4.4"
+    "postcss": "^8.3.11",
+    "tailwindcss": "^2.2.17",
+    "vite": "^2.6.13"
   },
   "dependencies": {
     "@rescript/react": "^0.10.3",
