@@ -1,7 +1,7 @@
 @react.component
 let make = (~library) => {
-    open Library
-    
+  open Library
+
   let docLink = switch library {
   | Rescript => "https://rescript-lang.org/docs/manual/latest/introduction"
   | Tailwind => "https://tailwindcss.com/docs"

@@ -6,3 +6,4 @@ dist-ssr
 lib
 .merlin
 *.bs.js
+.bsb.lock
